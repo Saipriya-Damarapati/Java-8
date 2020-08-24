@@ -1,5 +1,4 @@
 # Java-8
-This file is the index and commit history
 
 #############################################################################
 TUTORIAL LIST
@@ -13,6 +12,6 @@ Tutorial 1 : Hello World Program
 #############################################################################
 COMMIT HISTORY
 #############################################################################
-Modified By         |	Modified Date |	Modification
------------------------------------------------------------------------------
-Saipriya Damarapati	|	24-Aug-2020   |	Hello World Program
+Modified By       |	Modified Date |	Modification
+------------------------------------------------------------
+Saipriya Damarapati |	24-Aug-2020    |	Hello World Program
