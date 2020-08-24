@@ -12,6 +12,6 @@ Tutorial 1 : Hello World Program
 #############################################################################
 COMMIT HISTORY
 #############################################################################
-Modified By			|	Modified Date |	Modification
+Modified By         |	Modified Date |	Modification
 -----------------------------------------------------------------------------
-Saipriya Damarapati	|	24-Aug-2020	  |	Hello World Program
+Saipriya Damarapati	|	24-Aug-2020   |	Hello World Program
